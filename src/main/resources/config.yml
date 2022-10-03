@@ -1,0 +1,8 @@
+database:
+  enabled: true
+  host: localhost
+  port: 3306
+  user: root
+  password: 778899ww
+  database: trixey
+  table: itsbotbridge_player_data
